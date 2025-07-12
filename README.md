@@ -1,8 +1,5 @@
----
-
 ## ✅ `README.md` — For Blogsy (MERN + AI Blog Platform)
 
-```markdown
 # 📝 Blogsy – AI-Powered Blogging Platform
 
 **Blogsy** is a modern, full-stack blogging application built using the **MERN stack**. It enables admins to create, manage, and publish blog content efficiently with the help of an integrated AI content generator powered by Gemini. Users can browse categorized blogs, search content, and interact via comments — all in a clean, responsive UI.
